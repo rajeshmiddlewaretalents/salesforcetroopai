@@ -28,6 +28,7 @@
     "vite": "^6.0.1"
   },
   "reactSnap": {
+    "source": "dist",
     "inlineCss": true,
     "minifyHtml": {
       "collapseWhitespace": true,
